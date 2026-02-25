@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Isha%20Chhikara&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Life%20Sciences%20Researcher&descAlignY=58&descSize=20&descColor=cdd6f4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Isha&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Life%20Sciences%20Researcher&descAlignY=58&descSize=20&descColor=cdd6f4" width="100%"/>
 
 </div>
 
@@ -9,6 +9,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=genes+%7C+genomes+%7C+the+questions+in+between...;CRISPR+%C3%97+liver+cancer+%C3%97+mountain+biology;turning+messy+data+into+something+that+means+something)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+<div align="center">
+  <img src="https://i.giphy.com/d9zTJCNhA8NgyIEcOr.gif" width="280" style="border-radius: 12px;" alt="cells under microscope"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.giphy.com/j9GjWFFRO7qH7e5XVZ.gif" width="280" style="border-radius: 12px;" alt="cell division"/>
+</div>
+
+<br/>
 
 ---
 
@@ -49,6 +59,9 @@
 *One organism adapts to low oxygen over millennia.*
 *A tumour adapts to low oxygen over weeks.*
 *What do they share? That's the question I keep returning to.*
+
+<br/>
+<img src="https://i.giphy.com/n1AAE0pREJjngIN54P.gif" width="420" style="border-radius: 10px;" alt="cell culture animation"/>
 
 </div>
 
@@ -140,8 +153,6 @@ So I write about anglerfish reproduction, liver regeneration, why apoptosis is k
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/isha.s.chhikara316@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:isha.s.chhikara316@gmail.com)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-5661a3378/)
 
 *If you work on liver cancer, hypoxia, CRISPR, or just have a weird research question — I'm interested.*
