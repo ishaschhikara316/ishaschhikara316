@@ -15,7 +15,7 @@
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="8"><tr>
 <td align="center" valign="middle"><img src="https://i.giphy.com/d9zTJCNhA8NgyIEcOr.gif" height="260" alt="cells under microscope"/></td>
-<td align="center" valign="middle"><img src="https://i.giphy.com/j9GjWFFRO7qH7e5XVZ.gif" height="260" alt="cell division"/></td>
+<td align="center" valign="middle"><img src="https://i.giphy.com/9PnFIyHye1UVmjzNCM.gif" height="260" alt="biology cell"/></td>
 </tr></table>
 </div>
 
