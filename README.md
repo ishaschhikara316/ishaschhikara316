@@ -13,9 +13,10 @@
 ---
 
 <div align="center">
-  <img src="https://i.giphy.com/d9zTJCNhA8NgyIEcOr.gif" width="280" style="border-radius: 12px;" alt="cells under microscope"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.giphy.com/j9GjWFFRO7qH7e5XVZ.gif" width="280" style="border-radius: 12px;" alt="cell division"/>
+<table border="0" cellspacing="0" cellpadding="8"><tr>
+<td align="center" valign="top"><img src="https://i.giphy.com/d9zTJCNhA8NgyIEcOr.gif" width="280" alt="cells under microscope"/></td>
+<td align="center" valign="top"><img src="https://i.giphy.com/j9GjWFFRO7qH7e5XVZ.gif" width="280" alt="cell division"/></td>
+</tr></table>
 </div>
 
 <br/>
@@ -130,20 +131,6 @@ MSc thesis. The answer: the bottleneck isn't the editing — it's getting there.
 
 Science that's hard to understand is science that goes nowhere.
 So I write about anglerfish reproduction, liver regeneration, why apoptosis is kind of beautiful, and why we still can't cure the common cold — for anyone curious enough to read.
-
----
-
-<br/>
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ishaschhikara316&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=CDD6F4&hide_rank=false" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaschhikara316&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=CDD6F4" height="160"/>
-
-</div>
 
 ---
 
