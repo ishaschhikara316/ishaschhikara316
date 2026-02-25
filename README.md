@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-<img src="https://i.giphy.com/j9GjWFFRO7qH7e5XVZ.gif" width="420" alt="cell division"/>
+<img src="https://i.giphy.com/j9GjWFFRO7qH7e5XVZ.gif" width="520" alt="cell division"/>
 </div>
 
 <br/>
