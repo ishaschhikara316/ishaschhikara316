@@ -67,6 +67,18 @@
 
 <br/>
 
+## 📄 Publications
+
+**Manuscripts in Preparation:**
+
+1. **Chhikara I.** "A 9-Gene High-Altitude Adaptation Signature Predicts Overall Survival in Hepatocellular Carcinoma." *In preparation.* Training C-index: 0.671; validated in 3 external cohorts (n=568). [[GitHub](https://github.com/ishaschhikara316/hcc-altitude-signature)]
+
+2. **Chhikara I.** "An 11-Gene ROS/Ferroptosis Prognostic Signature for Hepatocellular Carcinoma." *In preparation.* Training C-index: 0.700; validated in 4 external cohorts. [[GitHub](https://github.com/ishaschhikara316/hcc-ros-signature)]
+
+---
+
+<br/>
+
 ## 🧪 Things I've Actually Done
 
 <table>
